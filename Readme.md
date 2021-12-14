@@ -1,6 +1,6 @@
 # Linux AArch32 GNU toolchain conan package
 
-This conan toolchain package is intended to cross-compile other conan packages for Linux based AArch32 systems from the Cortex-A Family. Sample conan profiles to cross-compile from Linux based x86 build system to Linux based AArch32 systems are provided.
+This conan toolchain package is intended to cross-compile other conan packages for Linux based AArch32 systems of the Cortex-A Family. Sample conan profiles to cross-compile from Linux based x86 build system to Linux based AArch32 systems are provided.
 
 ## Use Case
 
