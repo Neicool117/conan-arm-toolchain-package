@@ -36,6 +36,18 @@ which is compatible with GNU Toolchain 10.2.
 
 ## Usage
 
+### Create the package
+
+Clone the repository and run 
+
+```
+$ conan create . 
+```
+
+in the repository root to create the toolchain package.
+
+### Use the package
+
 Running a Linux based x86_64 build system you can add the sample-profiles to conan profiles directory and try to cross compile OpenCV using conan center package
 
 ```
