@@ -1,0 +1,11 @@
+[settings]
+os=Linux
+arch=armv7
+compiler=gcc
+compiler.version=10.2
+compiler.libcxx=libstdc++11
+build_type=Debug
+[options]
+[build_requires]
+linux_aarch32_toolchain/10.2
+[env]
